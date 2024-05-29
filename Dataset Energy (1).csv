@@ -1,0 +1,10 @@
+Route,Vehicle,EnergyConsumption,Cost
+Route1,Truck,50,10
+Route1,Van,40,8
+Route1,Car,25,5
+Route2,Truck,60,12
+Route2,Van,45,9
+Route2,Car,30,6
+Route3,Truck,55,11
+Route3,Van,35,7
+Route3,Car,20,4
